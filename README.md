@@ -11,4 +11,5 @@ zip의 압축을 풀지 마시고
 ko_KR.lang 파일을 집어넣으시면됩니다.
 
 영상설명 (반디집)
-<iframe width="640" height="360" src="ㅇ" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+[![Video Label](http://img.youtube.com/vi/J9eVfLGoTG8/0.jpg)](https://youtu.be/J9eVfLGoTG8)
