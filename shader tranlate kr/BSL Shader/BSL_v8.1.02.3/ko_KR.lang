@@ -108,55 +108,55 @@ option.AO_STRENGTH.comment=엠비언트 오클루전의 정도를 조정합니�
 option.DESATURATION=Desaturation
 option.DESATURATION.comment=어두운 영역에 약간의 색조를 추가하면서 채도를 줄입니다.
 
-option.DESATURATION_FACTOR=Max Desaturation Factor
-option.DESATURATION_FACTOR.comment=Adjusts the maximum amount of desaturation applied.
-value.DESATURATION_FACTOR.2.0=Very Low
-value.DESATURATION_FACTOR.1.5=Low
-value.DESATURATION_FACTOR.1.0=Medium
-value.DESATURATION_FACTOR.0.5=High
-value.DESATURATION_FACTOR.0.0=Very High
+option.DESATURATION_FACTOR=최대 Desaturation 인수
+option.DESATURATION_FACTOR.comment=적용된 채도 감소의 최대 양을 조정합니다.
+value.DESATURATION_FACTOR.2.0=매우 낮음
+value.DESATURATION_FACTOR.1.5=낮음
+value.DESATURATION_FACTOR.1.0=중간
+value.DESATURATION_FACTOR.0.5=높음
+value.DESATURATION_FACTOR.0.0=매우 높음
 
-option.DYNAMIC_HANDLIGHT=Dynamic Handlight
-option.DYNAMIC_HANDLIGHT.comment=Allows blocklight to be emitted from view when holding certain objects.
+option.DYNAMIC_HANDLIGHT=동적 핸드라이트
+option.DYNAMIC_HANDLIGHT.comment=특정 물체를 잡고 있을 때 블록 라이트가 시야에서 방출되도록 허용합니다.
 
-option.TOON_LIGHTMAP=Toon Lightmap
-option.TOON_LIGHTMAP.comment=Reduces the quality of vanilla lighting for cel shading. §e[*]§rThis option is known for making your game "look bad", only enable this when you need it.
+option.TOON_LIGHTMAP=툰 라이트맵
+option.TOON_LIGHTMAP.comment=셀 셰이딩(카툰 렌더링)을 위해 바닐라 조명의 품질을 낮춥니다. §e[*]§r이 옵션은 게임을 "나쁘게 보이게" 하는 것으로 알려져 있으므로 필요할 때만 활성화하십시오.
 
-option.WHITE_WORLD=White World
-option.WHITE_WORLD.comment=Replaces textures with flat white color.
+option.WHITE_WORLD=하얀 세상
+option.WHITE_WORLD.comment=텍스처를 평평한 흰색으로 바꿉니다.
 
 #Material
-option.ADVANCED_MATERIALS=Advanced Materials
-option.ADVANCED_MATERIALS.comment=Enables the use of specular and normal mapping which allows for more detail on various things.  §e[*]§rThis option requires a resource pack which contains specular and/or normal maps, disable this if you don't use one. §e[*]§rOptions which requires advanced materials are indicated by *, changing these options won't affect the visuals or performance while advanced materials is disabled.
+option.ADVANCED_MATERIALS=고급 머터리얼
+option.ADVANCED_MATERIALS.comment=다양한 사물에 대한 자세한 정보를 제공하는 스페큘러(반사광) 및 노멀 매핑을 사용할 수 있습니다.  §e[*]§r이 옵션은 스펙큘러 및/또는 노멀 맵을 포함하는 리소스 팩이 필요합니다. 사용하지 않는 경우 비활성화하십시오. §e[*]§r고급 머터리얼이 필요한 옵션은 *로 표시되며 고급 머터리얼이 비활성화된 상태에서 이 옵션을 변경해도 시각적 효과나 성능에 영향을 미치지 않습니다.
 
-option.MATERIAL_FORMAT=Material Format*
-option.MATERIAL_FORMAT.comment=Determines the specular and normal map format used by the resourcepack. §e[*]§rTexture artists usually tell which format is used in their resourcepack, using the wrong format may give weird results.
+option.MATERIAL_FORMAT=머터리얼 포맷*
+option.MATERIAL_FORMAT.comment=리소스팩에서 사용하는 스페큘러 및 노멀 맵 형식을 결정합니다. §e[*]§r텍스처 개발자는 일반적으로 리소스팩에 어떤 포맷이 사용되는지 알려줍니다. 잘못된 포맷을 사용하면 이상한 결과가 나올 수 있습니다.
 value.MATERIAL_FORMAT.0=SEUS/Old PBR
 value.MATERIAL_FORMAT.1=labPBR 1.3
 
-option.SSS=Subsurface Scattering
-option.SSS.comment=Allows light to penetrate and scatter through certain blocks.
-value.SSS.0=§cOFF
-value.SSS.1=AdvMat Only*
-value.SSS.2=Full
+option.SSS=서브서피스 스캐터링(SSS)
+option.SSS.comment=빛이 특정 블록을 통과하고 흩어지게 합니다.
+value.SSS.0=§c꺼짐
+value.SSS.1=고급 머터리얼 전용*
+value.SSS.2=전부
 
-option.SSS_QUALITY=SSS Quality
-option.SSS_QUALITY.comment=Adjusts subsurface scattering quality.
-value.SSS_QUALITY.0=Low
-value.SSS_QUALITY.1=High
+option.SSS_QUALITY=SSS 품질
+option.SSS_QUALITY.comment=서브서피스 스캐터링품질을 조정합니다.
+value.SSS_QUALITY.0=낮음
+value.SSS_QUALITY.1=높음
 
-option.EMISSIVE=Emissive
-option.EMISSIVE.comment=Allows certain surfaces to be brighter.
-value.EMISSIVE.0=§cOFF
-value.EMISSIVE.1=AdvMat Only*
-value.EMISSIVE.2=Full
+option.EMISSIVE=이미시브
+option.EMISSIVE.comment=특정 부분을 빛나게 할 수 있습니다.
+value.EMISSIVE.0=§c끄기
+value.EMISSIVE.1=고급 머터리얼 전용*
+value.EMISSIVE.2=전부
 
-option.ALBEDO_BALANCING=Albedo Balancing
-option.ALBEDO_BALANCING.comment=Reduces brightness of very bright colored surfaces.
+option.ALBEDO_BALANCING=알베도 밸런싱
+option.ALBEDO_BALANCING.comment=매우 밝은 색상의 표면의 밝기를 줄입니다.
 
-option.ALPHA_BLEND=Alpha Blending
+option.ALPHA_BLEND=알파 블렌딩
 option.ALPHA_BLEND.comment=TBA. 
-value.ALPHA_BLEND.0=Gamma
+value.ALPHA_BLEND.0=감마
 value.ALPHA_BLEND.1=Linear
 
 #Specular & Reflections
