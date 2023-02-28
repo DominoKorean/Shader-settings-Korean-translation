@@ -160,23 +160,23 @@ value.ALPHA_BLEND.0=감마
 value.ALPHA_BLEND.1=Linear
 
 #Specular & Reflections
-option.REFLECTION=Reflections
-option.REFLECTION.comment=Enables reflections on water and translucents.
-value.REFLECTION.0=§cOFF
-value.REFLECTION.1=Sky & Specular Only
-value.REFLECTION.2=Full
+option.REFLECTION=반사도(리플렉션)
+option.REFLECTION.comment=물과 반투명에 대한 반사를 활성화합니다.
+value.REFLECTION.0=§c끄기
+value.REFLECTION.1=하늘, 반사광(스페큘러)만
+value.REFLECTION.2=전부
 
-option.REFLECTION_TRANSLUCENT=Translucent Reflections
-option.REFLECTION_TRANSLUCENT.comment=Allows reflection to be rendered on translucent surfaces, such as stained glass, ice, slime blocks, and more.
+option.REFLECTION_TRANSLUCENT=반투명 반사도
+option.REFLECTION_TRANSLUCENT.comment=색유리, 얼음, 슬라임 블록 등과 같은 반투명 표면에 반사를 추가할 수 있습니다.
 
-option.REFLECTION_SPECULAR=Specular Reflection*
-option.REFLECTION_SPECULAR.comment=Enables reflection on smooth or metallic surfaces.
+option.REFLECTION_SPECULAR=반사광(스페큘러) 반사도*
+option.REFLECTION_SPECULAR.comment=매끄럽거나 금속성 표면에서 반사를 활성화합니다.
 
-option.REFLECTION_RAIN=Rain Reflection*
-option.REFLECTION_RAIN.comment=Allows surfaces to be wet while raining.  §e[*]§rRequires specular reflection.
+option.REFLECTION_RAIN=비 반사도*
+option.REFLECTION_RAIN.comment=비가 오는 동안 표면이 젖는 효과를 활성화합니다. §e[*]§r반사광(스페큘러) 반사도 활성화 필요
 
-option.REFLECTION_ROUGH=Rough Reflection*
-option.REFLECTION_ROUGH.comment=Allows surfaces with lower smoothness to render blurry reflections. §c[-]§rMay contain minor artifacts.
+option.REFLECTION_ROUGH=거칠기(Rough) 반사도*
+option.REFLECTION_ROUGH.comment=부드러운 정도가 낮은 표면을 사용하여 흐릿한 반사를 추가할 수 있습니다. §c[-]§r부자연스러운 효과를 낼 수도 있습니다.
 
 option.REFLECTION_PREVIOUS=Previous Frame Reflection
 option.REFLECTION_PREVIOUS.comment=Allows translucents to be reflected by using previous frame information. §c[-]§rMay cause missing reflection on screenshot (caused by screenshot size setting). §c[-]§rIncompatible with some GPUs. §c[-]§rBugged in 1.7.10.
