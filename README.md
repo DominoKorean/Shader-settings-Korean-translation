@@ -36,8 +36,7 @@ ko_KR.lang 파일을 집어넣으시면됩니다.
 
 디스코드에서 조금더 빨리 확인 해드릴 수 있습니다.
 
-
-### [도미노한국인 디스코드 서버](https://discord.gg/D5zEJx3AFE)
+ [도미노한국인 디스코드 서버](https://discord.gg/D5zEJx3AFE)
 
 <br/>
 <br/>
