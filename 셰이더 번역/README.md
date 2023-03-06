@@ -1,6 +1,6 @@
-# Optifine
+# <img src="https://pbs.twimg.com/profile_images/1336182241613938689/MabYhp8e_400x400.jpg  width="16" height="16"/> Optifine
 
-https://www.optifine.net
+https://www.optifine.net  
 
 옵티파인은 마인크래프트에서 가장 대표적인 세이더 엔진 모드입니다.  
 Iris 셰이더는 현제까지 Iris에서만 사용가능한 셰이더팩은 없기때문에  
