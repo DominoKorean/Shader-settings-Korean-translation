@@ -8,6 +8,8 @@ option.CANDLELIGHT_COLOR_TEMPERATURE=촛불 색온도
 option.HELD_LIGHT=동적 핸드핼드라이트
 
 option.GODRAYS=대기 갓레이
+option.GODRAYS.comment=물 속이 아닐 때 태양광으로부터 동적 빛 즉, "갓 레이"을 활성화합니다.
+
 option.CUMULUS_CLOUDS=적운
 option.CIRRUS_CLOUDS=권운
 option.CLOUDS_BLOCKY=사각형 구름
@@ -105,3 +107,4 @@ screen.POSTPROCESSING.comment=컬러 그레이딩, 모션 블러, 최종 프레�
 screen.UTILITY=유틸리티
 screen.UTILITY.comment=게임 플레이 관련 유틸리티
 screen.WATER=물
+
