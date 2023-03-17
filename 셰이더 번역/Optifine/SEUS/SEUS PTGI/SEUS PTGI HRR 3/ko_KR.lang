@@ -1,0 +1,107 @@
+option.VARIABLE_PENUMBRA_SHADOWS=가변 반그림자
+option.shadowDistance=그림자 거리
+
+option.SUNLIGHT_BRIGHTNESS=태양광 밝기
+option.TORCHLIGHT_BRIGHTNESS=횃불 밝기
+option.TORCHLIGHT_COLOR_TEMPERATURE=횃불 색온도
+option.CANDLELIGHT_COLOR_TEMPERATURE=촛불 색온도
+option.HELD_LIGHT=동적 핸드핼드라이트
+
+option.GODRAYS=대기 갓레이
+option.CUMULUS_CLOUDS=적운
+option.CIRRUS_CLOUDS=권운
+option.CLOUDS_BLOCKY=사각형 구름
+option.CLOUDS_IN_REFLECTIONS=반사의 구름
+option.CLOUDS_IN_GI=GI 구름
+
+option.WATER_PARALLAX=물 패럴랙스
+option.PARALLAX=패럴랙스 적용
+option.SMOOTH_PARALLAX=부드러운 패럴랙스
+option.WATER_FOG_DENSITY=물 안개 밀도
+option.TEXTURE_RESOLUTION=텍스처 해상도
+option.FORCE_WET_EFFECT=비에 젖은 효과
+option.PHYSICALLY_BASED_MAX_ROUGHNESS=물리 기반 최대 Roughness
+option.SPEC_CHANNEL_SMOOTHNESS=Specular 텍스처 Smoothness
+option.SPEC_CHANNEL_METALNESS=Specular 텍스처 Metalness
+option.SPEC_SMOOTHNESS_AS_ROUGHNESS=Smoothness 를 Roughness로
+option.TEXTURE_LOD_BIAS=텍스처 LOD 바이어스
+option.ANISOTROPIC_LOD_BIAS=등방성 LOD 바이어스
+value.ANISOTROPIC_LOD_BIAS.0=꺼짐
+value.ANISOTROPIC_LOD_BIAS.1=켜짐
+option.RAIN_SPLASH_EFFECT=비 튀김 효과
+option.WET_CAVE_EFFECT=젖은 동굴 효과
+
+option.DIFFUSE_TRACE_LENGTH=확산 GI 추적 거리
+option.REDUCED_SECONDARY_GI_RANGE=줄어든 보조 GI 범위
+value.REDUCED_SECONDARY_GI_RANGE.0=꺼짐
+value.REDUCED_SECONDARY_GI_RANGE.1=켜짐
+
+option.GI_RESPONSIVENESS=GI 반응 속도
+option.GI_SCREEN_SPACE_TRACING=스크린-스페이스 GI 추적
+option.GI_FILTER_QUALITY=GI 필터 품질
+value.GI_FILTER_QUALITY.0=낮음
+value.GI_FILTER_QUALITY.1=높음
+
+option.GI_LIGHT_BLOCK_INTENSITY=블록 조명 강도
+option.GI_LIGHT_TORCH_INTENSITY=횃불 조명 강도
+
+option.GI_SIMPLE_SKY_TERM=간단한 GI 하늘 모델
+
+option.FULL_RT_REFLECTIONS=전체 광선 추적 반사
+option.REFLECTION_TRACE_LENGTH=반사 광선 추적 길이
+option.REFLECTION_SCREEN_SPACE_TRACING=스크린 스페이스 반사 광선 추적
+
+option.GI_SECONDARY_SAMPLES=보조 GI 샘플
+option.LIGHT_LEAK_FIX=조명 누출 수정
+option.RAYTRACE_GEOMETRY_QUALITY=기하학 추적 품질
+option.GI_LEAF_TRANSPARENCY=GI 리프 투명도
+
+option.GI_RESPONSIVENESS=GI 반응성
+value.GI_RESPONSIVENESS.8=높음
+value.GI_RESPONSIVENESS.16=보통
+value.GI_RESPONSIVENESS.32=낮음
+
+option.GLOWING_LAPIS_LAZULI_BLOCK=빛나는 청금석 블록
+option.GLOWING_REDSTONE_BLOCK=빛나는 레드스톤 블록
+option.GLOWING_EMERALD_BLOCK=빛나는 에메랄드 블록
+
+option.TONEMAP_CURVE=톤맵 커브
+option.EXPOSURE=노출
+option.GAMMA=감마
+option.BLACK_DEPTH=블랙 뎁스
+option.SATURATION=채도
+option.TONEMAP_OPERATOR=톤맵 연산자
+option.MOTION_BLUR=모션 블러
+option.MOTION_BLUR_HQ=고화질 모션 블러
+option.MOTION_BLUR_INTENSITY=모션 블러 세기
+option.TONEMAP_STRENGTH=톤맵 강도
+option.BLOOM_AMOUNT=블룸 강도
+option.POST_SHARPENING=포스트 샤프닝
+
+option.FINAL_FXAA=FXAA
+value.FINAL_FXAA.0=끄기
+value.FINAL_FXAA.1=켜기
+option.PIXEL_LOOK=픽셀 룩
+value.PIXEL_LOOK.0=선명한
+value.PIXEL_LOOK.1=필름 룩
+option.SKIP_AA=모든 안티 앨리어싱 건너뛰기
+option.AA_STYLE=AA 스타일
+value.AA_STYLE.0=안정적
+value.AA_STYLE.1=반응성
+
+option.VISUALIZE_DANGEROUS_LIGHT_LEVEL=위험한 조명 수준 시각화
+
+screen.ANTIALIASING=안티 앨리어싱
+screen.ATMOSPHERICS=대기
+screen.ATMOSPHERICS.comment=태양광선, 구름, 대기
+screen.LIGHTING=조명
+screen.LIGHTING.comment=조명 색상과 강도
+screen.SURFACE=표면
+screen.SURFACE.comment=표면과 텍스처 렌더링에 대한 모든 것
+screen.RAYTRACING=레이트레이싱
+screen.RAYTRACING.comment=레이트레이싱!
+screen.POSTPROCESSING=포스트 프로세싱
+screen.POSTPROCESSING.comment=컬러 그레이딩, 모션 블러, 최종 프레젠테이션 등
+screen.UTILITY=유틸리티
+screen.UTILITY.comment=게임 플레이 관련 유틸리티
+screen.WATER=물
