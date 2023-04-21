@@ -10,23 +10,11 @@
 <br/>
 
 
-# 적용법
+# 위키
 
-zip의 압축을 풀지 마시고
+적용법이나 오류해결등은 이곳에서 확인이 가능합니다.
+https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki
 
-압축 상태로 편집이 가능한 프로그램을 이용해
-
-셰이더 파일 내에 lang폴더에
-
-ko_KR.lang 파일을 집어넣으시면됩니다.
-
-
-### 영상설명 (반디집)
-
-[![Video Label](http://img.youtube.com/vi/J9eVfLGoTG8/0.jpg)](https://youtu.be/J9eVfLGoTG8)
-
-<br/>
-<br/>
 
 ## 오류 제보
 
@@ -38,7 +26,7 @@ ko_KR.lang 파일을 집어넣으시면됩니다.
 
 [도미노한국인 디스코드 서버](https://discord.gg/D5zEJx3AFE)
 
-간단한 문제들은 [이곳](https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki) 에서 먼저 해결법을 찾아보시길 바랍니다.
+간단한 문제들은 [위키 페이지](https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki) 에서 먼저 해결법을 찾아보시길 바랍니다.
 <br/>
 <br/>
 <br/>
