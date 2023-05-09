@@ -33,13 +33,6 @@ https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki
 
 
 # 번역 참여
-번역에 참여하고 싶으시다면 디스코드로 문의 주시길 바랍니다.
-<br/>
-<br/>
-
-
-## **번역을 위해 이런분이 필요합니다.**
-
-* 셰이딩 용어등을 잘 아는사람
-* 번역 작업에 익숙한 사람
-
+[풀 리퀘스트](https://github.com/DominoKorean/Shader-settings-Korean-translation/pulls)를 통해 누구나 참여 가능합니다.  
+번역 시 참고 및 주의사항의 이곳을 확인해주세요.  
+https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki/%EB%B2%88%EC%97%AD-%EC%B0%B8%EC%97%AC%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD
