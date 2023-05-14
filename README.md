@@ -12,7 +12,7 @@
 
 ## 위키
 
-적용법이나 오류해결등은 이곳에서 확인이 가능합니다.
+적용법이나 오류해결등은 이곳에서 확인이 가능합니다.  
 https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki
 
 
