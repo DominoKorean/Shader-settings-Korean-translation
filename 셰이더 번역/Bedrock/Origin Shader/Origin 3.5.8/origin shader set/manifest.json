@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§7 https://github.com/DominoKorean/Shader-settings-Korean-translation",
+        "name": "Origin 셰이더 설정",
+        "uuid": "3ac331a8-74b6-4da6-8ed8-325008e2a8d8",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "§7 https://github.com/DominoKorean/Shader-settings-Korean-translation",
+            "type": "resources",
+            "uuid": "a452a59c-e571-49dd-a982-041e98d7ec10",
+            "version": [0, 0, 1]
+        }
+    ]
+}
