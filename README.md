@@ -1,4 +1,4 @@
-![](https://github.com/DominoKorean/Shader-settings-Korean-translation/blob/main/%EB%AC%B8%EC%84%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80/logo.svg)
+
 
 # 셰이더팩 설정 한글번역 프로젝트
 
