@@ -22,7 +22,7 @@ https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki
 
 만약 오타/오역등의 오류가 있다면
 
-깃허브의 Issues나 제 디스코드 서버에서 문의 주실 수 있습니다.
+깃허브의 [Issues](https://github.com/DominoKorean/Shader-settings-Korean-translation/issues)나 제 디스코드 서버에서 문의 주실 수 있습니다.
 
 디스코드에서 조금더 빨리 확인 해드릴 수 있습니다.
 
