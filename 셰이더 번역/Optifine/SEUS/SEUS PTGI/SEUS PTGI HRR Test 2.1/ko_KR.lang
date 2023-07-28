@@ -4,7 +4,7 @@ option.shadowDistance=그림자 거리
 option.SUNLIGHT_BRIGHTNESS=태양광 밝기
 option.TORCHLIGHT_BRIGHTNESS=횃불 밝기
 option.TORCHLIGHT_COLOR_TEMPERATURE=횃불 색온도
-option.HELD_LIGHT=동적 핸드핼드라이트
+option.HELD_LIGHT=동적 손에 든 빛
 
 
 option.GODRAYS=대기 갓레이
