@@ -7,6 +7,7 @@
 최대한 많은 셰이더를 번역하는것을 목표로 하고있습니다.  
 
 ![](https://github.com/DominoKorean/Shader-settings-Korean-translation/blob/main/%EB%AC%B8%EC%84%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80/2023-01-12_15.03.14.png)
+
 <br/>
 <br/>
 <br/>
@@ -17,6 +18,9 @@
 적용법이나 오류해결등은 이곳에서 확인이 가능합니다.  
 https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki
 
+<br/>
+<br/>
+<br/>
 
 ## 오류 제보
 
@@ -29,6 +33,7 @@ https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki
 [도미노한국인 디스코드 서버](https://discord.gg/D5zEJx3AFE)
 
 간단한 문제들은 [위키 페이지](https://github.com/DominoKorean/Shader-settings-Korean-translation/wiki) 에서 먼저 해결법을 찾아보시길 바랍니다.
+
 <br/>
 <br/>
 <br/>
