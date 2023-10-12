@@ -8,7 +8,7 @@ Iris 셰이더는 현제까지 Iris에서만 사용가능한 셰이더팩은 없
 <br/>
 <br/>
 
-# Canvas Renderer (아직까지 번역된것 없음)
+# Canvas Renderer
 
 https://beta.curseforge.com/minecraft/mc-mods/canvas-renderer
 
